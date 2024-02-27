@@ -6,7 +6,7 @@ import numpy as np
 
 G = 6.674 * (10 ** -11) # m^3 kg^-1 s^-2
 EARTH_MOON_DISTANCE = 384400e3 # m
-TIME = 60 # s
+TIME = 3600 # s
 
 @dataclass
 class Earth:
